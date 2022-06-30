@@ -10,13 +10,13 @@ When you download an artwork on the website or mobile app, you can see the artwo
 ### Danbooru
 There are 2 options on danbooru avaliable. You can search the artwork by artist name, or by file name. Both information is avaliable on the default filename.
 ### Yande.re
-The post id is the digits after yande.re in the file name.
+The post id is the digits after yande.re in the filename.
 ### Konachan.com
-The post id is the digits after Konachan.com - in the file name.
+The post id is the digits after Konachan.com - in the filename.
 ### Sankaku Channel
-The filename itself is a MD5 hash. The search bar in Sankaku Channel website has a built in decrypter so we can find the file with md5:<filename>
+The filename itself is a MD5 hash. The search bar in Sankaku Channel website has a built in decrypter so we can find the file with md5:(filename). The only thing required is the hash/filename.
 ### Flying Milk Tea
-The filename doesn't contain any id or hash that can be searched. Remember to change the filename when you save the artwork. Good luck.
+The filename doesn't contain any id or hash that can be searched. Remember to add the id to the filename when you save the artwork. Good luck.
 ## Screenshots
 ![Screenshot 1](https://cdn.discordapp.com/attachments/744149045114568704/992158541903302816/unknown.png)
 ## Future of this repo
